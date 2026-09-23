@@ -1,4 +1,5 @@
 {
+  "entry": ["src/index.ts"],
   "$schema": "https://raw.githubusercontent.com/fallow-rs/fallow/main/schema.json",
   "rules": {
     "unused-files": "error",
