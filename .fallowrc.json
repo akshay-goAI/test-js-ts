@@ -1,6 +1,6 @@
 {
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "entry": ["src/index.ts"],
-  "$schema": "https://raw.githubusercontent.com/fallow-rs/fallow/main/schema.json",
   "rules": {
     "unused-files": "error",
     "unused-exports": "error",
